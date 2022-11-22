@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE FORM [
+<!ELEMENT FORM (Name,addres,Phone)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT addres (#PCDATA)>
+<!ELEMENT Phone (#PCDATA)>
+
+]>
+<FORM>
+<Name>Ali</Name>
+<addres>Karachi</addres>
+<Phone>33980034</Phone>
+
+
+
+</FORM>
